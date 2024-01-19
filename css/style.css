@@ -1,0 +1,56 @@
+#body{
+background-color: #40C9A2;
+
+
+}
+
+
+#info {
+background-color: #A3F7B5;
+margin-left: 1%;
+margin-right:1%;
+
+}
+
+img{
+border-color: #191a19;
+margin-left: 20%;
+}
+
+h1{
+ text-align: center;
+}
+
+h2{
+    text-align: center;
+
+}
+h3{
+
+    margin-left: 2%;
+
+
+}
+p{
+
+ margin-left: 1%;
+
+}
+table{
+display: block;
+text-align:center;
+
+}
+
+#pic{
+
+position:relative ;
+left:20%;
+}
+
+.parent{
+
+  display: inline-grid;
+  grid-template-columns: 1fr 1fr;
+
+}
